@@ -1,2 +1,7 @@
-# mustang
-Proyecto Integrador de la materia Robótica.-
+###MUSTANG / ROBOTT
+
+==========================================
+Proyecto Integrador de la Materia Robótica
+==========================================
+##Integrantes:
+
